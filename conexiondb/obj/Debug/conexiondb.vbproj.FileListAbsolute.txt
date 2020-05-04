@@ -1,0 +1,15 @@
+C:\Users\snowi\source\repos\conexiondb\conexiondb\bin\Debug\conexiondb.exe.config
+C:\Users\snowi\source\repos\conexiondb\conexiondb\bin\Debug\conexiondb.exe
+C:\Users\snowi\source\repos\conexiondb\conexiondb\bin\Debug\conexiondb.pdb
+C:\Users\snowi\source\repos\conexiondb\conexiondb\bin\Debug\conexiondb.xml
+C:\Users\snowi\source\repos\conexiondb\conexiondb\bin\Debug\MySql.Data.dll
+C:\Users\snowi\source\repos\conexiondb\conexiondb\bin\Debug\MySql.Data.xml
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.vbprojAssemblyReference.cache
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.Form1.resources
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.Resources.resources
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.vbproj.GenerateResource.cache
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.vbproj.CoreCompileInputs.cache
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.vbproj.CopyComplete
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.exe
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.xml
+C:\Users\snowi\source\repos\conexiondb\conexiondb\obj\Debug\conexiondb.pdb
